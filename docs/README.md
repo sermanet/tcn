@@ -1,7 +1,7 @@
 # TCN
 [[Arxiv]](https://arxiv.org) [[Video]](youtube.com)
 
-# Pose
+# End-to-End Self-Supervised Pose Imitation
 
 <img src='pose_atomic.mov.gif'>
 <img src='pose_failures.mov.gif'>
