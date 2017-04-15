@@ -2,6 +2,7 @@
 
 # Unsupervised Objects Interactions
 
+<img src='figs/pose_squat.mov.gif'>
 <img src='pouring_0_9.gif'>
 
 # End-to-End Self-Supervised Pose Imitation
