@@ -2,15 +2,17 @@
 
 # Unsupervised Objects Interactions
 
-## Training Sequences
+### Training Sequences
 <img src='figs/pouring_data.mov.gif'>
 
-## Nearest Neighbor Imitation
-<img src='figs/pouring_data.mov.gif'>
+### Semantic Alignment / Nearest Neighbor Imitation
+<img src='figs/pouring_human.mov.gif'>
 
-## Robotic Imitation
+### Imitation Errors
+<img src='figs/pouring_failure.mov.gif'>
+
+### Robotic Imitation (end-effector never seen during training)
 <img src='figs/pouring_robot.mov.gif'>
-
 
 # End-to-End Self-Supervised Pose Imitation
 
