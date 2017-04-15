@@ -17,14 +17,14 @@
 # End-to-End Self-Supervised Pose Imitation
 
 ### Self-supervised only (no labels)
-<img src='pose_atomic.mov.gif' height='270'>
+<img src='figs/pose_atomic.mov.gif' height='270'>
 <img src='figs/pose_squat.mov.gif' height='270'>
 
 ### Imitation Failures
-<img src='pose_failures.mov.gif' height='270'>
+<img src='figs/pose_failures.mov.gif' height='270'>
 
 ### Self-supervision + human supervision
-<img src='pose_jeff_long.mov.gif' height='270'>
+<img src='figs/pose_jeff_long.mov.gif' height='270'>
 
 # Citation
 
