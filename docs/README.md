@@ -18,9 +18,11 @@
 
 ### Self-supervised only (no labels)
 <img src='figs/pose_atomic.mov.gif' height='270'>
+
+### Complex non-linear mapping discovered unsupervised
 <img src='figs/pose_squat.mov.gif' height='270'>
 
-### Imitation Failures
+### Imitation Failures (shoulder joint)
 <img src='figs/pose_failures.mov.gif' height='270'>
 
 ### Self-supervision + human supervision
