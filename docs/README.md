@@ -8,6 +8,9 @@
 ### Semantic Alignment / Nearest Neighbor Imitation
 <img src='figs/pouring_human.mov.gif'>
 
+### 'Fake' pouring imitation
+<img src='figs/pouring_fake.mov.gif' height='270'>
+
 ### Imitation Errors
 <img src='figs/pouring_failure.mov.gif' height='270'>
 
