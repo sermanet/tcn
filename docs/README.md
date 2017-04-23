@@ -1,5 +1,9 @@
 # TCN
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=sErz1jyhTXk" target="_blank">
+ <img src="http://img.youtube.com/vi/sErz1jyhTXk/0.jpg" alt="TCN" width="240" height="180" border="10" />
+</a>
+
 # Unsupervised Objects Interactions
 
 ### Training Sequences
