@@ -1,5 +1,5 @@
 # Time-Contrastive Networks:<br> Self-Supervised Learning from Multi-View Observation
-## Pierre Sermanet, Corey Lynch, Jasmine Hsu, Sergey Levine
+### Pierre Sermanet, Corey Lynch, Jasmine Hsu, Sergey Levine
 
 ### [[Paper]](https://arxiv.org/abs/1704.06888) [[Video]](https://www.youtube.com/watch?v=sErz1jyhTXk)
 
