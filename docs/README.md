@@ -1,10 +1,7 @@
-# TCN
+# Time-Contrastive Networks:<br> Self-Supervised Learning from Multi-View Observation
+## Pierre Sermanet, Corey Lynch, Jasmine Hsu, Sergey Levine
 
-#Time-Contrastive Networks: Self-Supervised Learning from Multi-View Observation
-
-Pierre Sermanet, Corey Lynch, Jasmine Hsu, Sergey Levine
-
-[[Paper]](https://arxiv.org/abs/1704.06888) [[Video]](https://www.youtube.com/watch?v=sErz1jyhTXk)
+### [[Paper]](https://arxiv.org/abs/1704.06888) [[Video]](https://www.youtube.com/watch?v=sErz1jyhTXk)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=sErz1jyhTXk" target="_blank">
  <img src="http://img.youtube.com/vi/sErz1jyhTXk/0.jpg" alt="TCN" width="240" height="180" border="10" />
@@ -42,6 +39,15 @@ Pierre Sermanet, Corey Lynch, Jasmine Hsu, Sergey Levine
 <img src='figs/pose_jeff_long.mov.gif' height='270'>
 
 # Citation
+
+```
+@article{TCN2017,
+  title={Time-Contrastive Networks: Self-Supervised Learning from Multi-View Observation},
+  author={Sermanet, Pierre and Lynch, Corey and Hsu, Jasmine and Levine, Sergey},
+  journal={arXiv preprint arXiv:1704.06888},
+  year={2017}
+}
+```
 
 # Acknowledgments
 
