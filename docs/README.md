@@ -1,5 +1,11 @@
 # TCN
 
+#Time-Contrastive Networks: Self-Supervised Learning from Multi-View Observation
+
+Pierre Sermanet, Corey Lynch, Jasmine Hsu, Sergey Levine
+
+[[Paper]](https://arxiv.org/abs/1704.06888) [[Video]](https://www.youtube.com/watch?v=sErz1jyhTXk)
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=sErz1jyhTXk" target="_blank">
  <img src="http://img.youtube.com/vi/sErz1jyhTXk/0.jpg" alt="TCN" width="240" height="180" border="10" />
 </a>
@@ -39,5 +45,4 @@
 
 # Acknowledgments
 
-# Coming
-[[Arxiv]](https://arxiv.org) [[Video]](http://youtube.com)
+We thank Jonathan Tompson, James Davidson and Vincent Vanhoucke for helpful discussions and feedback. We are also grateful to Eric Jang and Phing Lee for their repeated help and talent in robot imitation. Finally we thank everyone else who provided imitations for this project: Alexander Toshev, Anna Goldie, Deanna Chen, Deirdre Quillen, Dieterich Lawson, Eric Langlois, Ethan Holly, Irwan Bello, Jasmine Collins, Jeff Dean, Julian Ibarz, Ken Oslund, Laura Downs, Leslie Phillips, Luke Metz, Mike Schuster, Ryan Dahl, Sam Schoenholz and Yifei Feng.
