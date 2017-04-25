@@ -4,7 +4,8 @@
 ### [[Paper]](https://arxiv.org/abs/1704.06888) [[Video]](https://www.youtube.com/watch?v=sErz1jyhTXk)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=sErz1jyhTXk" target="_blank">
- <img src="http://img.youtube.com/vi/sErz1jyhTXk/0.jpg" alt="TCN" width="240" height="180" border="10" />
+ <img src="figs/youtube_front.png"/> 
+<!--  alt="TCN" width="240" height="180" border="10"  -->
 </a>
 
 # Unsupervised Objects Interactions
