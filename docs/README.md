@@ -1,9 +1,9 @@
 # Time-Contrastive Networks:<br> Self-Supervised Learning from Multi-View Observation
 Pierre Sermanet\*, Corey Lynch\*†, Jasmine Hsu, Sergey Levine<br>
 Google Brain<br>
-(* equal contributions, † Google Brain Residency program [g.co/brainresidency](g.co/brainresidency))
+(* equal contributions, † Google Brain Residency program [g.co/brainresidency](https://research.google.com/teams/brain/residency/))
 
-### [[Paper]](https://arxiv.org/abs/1704.06888) [[Video]](https://www.youtube.com/watch?v=sErz1jyhTXk)
+### [[ Paper ]](https://arxiv.org/abs/1704.06888) [[ Video ]](https://www.youtube.com/watch?v=sErz1jyhTXk)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=sErz1jyhTXk" target="_blank">
  <img src="figs/youtube_front.png" alt="TCN" width="480">
