@@ -10,7 +10,7 @@ Google Brain<br>
 </a>
 
 ##### Abstract
-We propose a self-supervised approach for learning representations entirely from unlabeled videos recorded from multiple viewpoints. This is particularly relevant to robotic imitation learning, which requires a viewpoint-invariant understanding of the relationships between humans and their environment, including object interactions, attributes and body pose. We train our representations using a triplet loss, where multiple simultaneous viewpoints of the same observation are attracted in the embedding space, while being repelled from temporal neighbors which are often visually similar but functionally different. This signal encourages our model to discover attributes that do not change across viewpoint, but do change across time, while ignoring nuisance variables such as occlusions, motion blur, lighting and background. Our experiments demonstrate that such a representation even acquires some degree of invariance to object instance. We demonstrate that our model can correctly identify corresponding steps in complex object interactions, such as pouring, across different videos with different instances. We also show what is, to the best of our knowledge, the first self-supervised results for end-to-end imitation learning of human motions by a real robot.
+We propose a self-supervised approach for learning representations entirely from unlabeled videos recorded from multiple viewpoints. This is particularly relevant to robotic imitation learning, which requires a viewpoint-invariant understanding of the relationships between humans and their environment, including object interactions, attributes and body pose. We train our representations using a triplet loss, where multiple simultaneous viewpoints of the same observation are attracted in the embedding space, while being repelled from temporal neighbors which are often visually similar but functionally different. This signal encourages our model to discover attributes that do not change across viewpoint, but do change across time, while ignoring nuisance variables such as occlusions, motion blur, lighting and background. Our experiments demonstrate that such a representation even acquires some degree of invariance to object instance. We demonstrate that our model can correctly identify corresponding steps in complex object interactions, such as pouring, across different videos with different instances. We also show what are, to the best of our knowledge, the first self-supervised results for end-to-end imitation learning of human motions by a real robot.
 
 # Unsupervised Objects Interactions
 
@@ -34,7 +34,7 @@ We propose a self-supervised approach for learning representations entirely from
 ### Self-supervised only (no labels)
 <img src='figs/pose_atomic.mov.gif' height='270'>
 
-### Complex non-linear mapping discovered unsupervised
+### Complex non-linear mapping discovered unsupervised (many-to-one joint mapping)
 <img src='figs/pose_squat.mov.gif' height='270'>
 
 ### Imitation Failures (shoulder joint)
