@@ -2,7 +2,7 @@ Pierre Sermanet\*, Corey Lynch\*†, Jasmine Hsu, Sergey Levine<br>
 Google Brain<br>
 (* equal contribution, † Google Brain Residency program [g.co/brainresidency](https://research.google.com/teams/brain/residency/))
 
-This project is part of the larger [Unsupervised Imitation Learning](https://sermanet.github.io/imitation/) project.<br>
+This project is part of the larger [Self-Supervised Imitation Learning](https://sermanet.github.io/imitation/) project.<br>
 Click [here](https://sermanet.github.io/imitate/) for an updated version of this project.
 
 ### [[ Paper ]](https://arxiv.org/abs/1704.06888) [[ Video ]](https://www.youtube.com/watch?v=sErz1jyhTXk)
