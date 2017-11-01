@@ -20,7 +20,7 @@ We propose a self-supervised approach for learning representations entirely from
 # Unsupervised Objects Interactions
 
 ### Training Sequences
-<img src='docs/figs/pouring_data.mov.gif' height='270'>
+<img src='docs/figs/multiview_data_low_framerate.mov.gif' height='270'>
 
 ### Semantic Alignment / Nearest Neighbor Imitation
 <img src='docs/figs/pouring_human.mov.gif'>
