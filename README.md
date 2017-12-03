@@ -1,4 +1,4 @@
-[Pierre Sermanet](https://sermanet.github.io/home/)\*, Corey Lynch\*†, Jasmine Hsu, Sergey Levine<br>
+[Pierre Sermanet](https://sermanet.github.io/home/)\*, Corey Lynch\*†, Jasmine Hsu, [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)<br>
 Google Brain<br>
 (* equal contribution, † Google Brain Residency program [g.co/brainresidency](https://research.google.com/teams/brain/residency/))
 
