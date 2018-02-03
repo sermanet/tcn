@@ -5,7 +5,7 @@ Google Brain<br>
 This project is part of the larger [Self-Supervised Imitation Learning](https://sermanet.github.io/imitation/) project.<br>
 Click [here](https://sermanet.github.io/imitate/) for an updated version of this project.
 
-### [[ Paper ]](https://arxiv.org/abs/1704.06888v1) [[ Video ]](https://www.youtube.com/watch?v=sErz1jyhTXk)
+### [[ Paper ]](https://arxiv.org/abs/1704.06888v1) [[ BibTex ]](https://github.com/sermanet/home/blob/master/docs/bib/Sermanet2017TCN.bib) [[ Video ]](https://www.youtube.com/watch?v=sErz1jyhTXk)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=sErz1jyhTXk" target="_blank">
  <img src="docs/figs/youtube_front.png" alt="TCN" width="480">
